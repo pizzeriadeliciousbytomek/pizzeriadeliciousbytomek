@@ -1,2 +1,0 @@
-# pizzeriadeliciousbytomek
-My pizzeria website
